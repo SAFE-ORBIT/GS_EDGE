@@ -136,7 +136,7 @@ Condição considerada de perigo iminente ou colisão.
 ### Inicialização (Primeiros 2 segundos)
 
 ```text
-SpaceClean
+Safe Orbit
 Inicializando
 ```
 
