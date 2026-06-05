@@ -10,9 +10,10 @@
 
 ---
 
-## 🎥 Link para o vídeo do projeto SAFE ORBIT no Youtube
+## 🎥 Link para os vídeos, respectivamente, do projeto SAFE ORBIT e demonstração no tinkercad no Youtube
 
 * https://youtu.be/IlgSTI3e8W4?si=dvBHiIi_znzGjcQZ
+* https://youtu.be/-D4DkJVqvlE
 
 ---
 
